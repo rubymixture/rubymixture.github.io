@@ -382,13 +382,13 @@ a, #site-title h1 a, #secondary .textwidget a, #content .entry-header h1.entry-t
 	top: 2.7em;
 	left: 0;
 	z-index: 99999;
-	background:url(http://musicforgood.tv/wp-content/themes/bugis/images/dropdown-tip.png) 20px 0 no-repeat;
+	background:url(images/dropdown-tip.png) 20px 0 no-repeat;
 }
 #main-nav ul ul ul {
 	margin: 0;
 	left: 100%;
 	top: 0;
-	background:url(http://musicforgood.tv/wp-content/themes/bugis/images/dropdown-tip-left.png) 0 15px no-repeat;
+	background:url(images/dropdown-tip-left.png) 0 15px no-repeat;
 	padding-top:0;
 	padding-left:10px;
 }
@@ -506,7 +506,7 @@ a, #site-title h1 a, #secondary .textwidget a, #content .entry-header h1.entry-t
 	width:23px;
 	height:24px;
 	display:block;
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/comments-icon.png) 0 1px no-repeat;
+	background: url(images/comments-icon.png) 0 1px no-repeat;
 	color:#fff;
 	opacity: 0.6;
 	-moz-opacity: 0.6;
@@ -706,14 +706,14 @@ a, #site-title h1 a, #secondary .textwidget a, #content .entry-header h1.entry-t
 }
 /* --- Post Meta: Date, Share, Like --- */
 #content .entry-meta a.post-date {
-	background:url(http://musicforgood.tv/wp-content/themes/bugis/images/date-icon.png) 0 0 no-repeat;
+	background:url(images/date-icon.png) 0 0 no-repeat;
 	margin:10px 0 5px;
 	padding:0 0 0 18px;
 	clear:both;
 	display:inline-block;
 }
 #content .entry-meta a.share-btn {
-	background:url(http://musicforgood.tv/wp-content/themes/bugis/images/share-icon.png) 0 3px no-repeat;
+	background:url(images/share-icon.png) 0 3px no-repeat;
 	margin:10px 0 5px;
 	padding:2px 0 2px 18px;
 	display:block;
@@ -1393,7 +1393,7 @@ a.grey-button:hover, .grey-btncolor:hover {
 	right: 2px;
 	padding: 8px 10px 0 20px;
 	display: block;
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/search.png) no-repeat 7px 6px;
+	background: url(images/search.png) no-repeat 7px 6px;
 	cursor: pointer;
 	border: none;
 	text-indent:-9999em;
@@ -1469,94 +1469,94 @@ a.grey-button:hover, .grey-btncolor:hover {
 	filter: 0;
 }
 .widget_bugis_sociallinks ul.social-links li a.behance {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -1px -1px no-repeat;
+	background: url(images/social-icons.png) -1px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.delicious {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -28px -1px no-repeat;
+	background: url(images/social-icons.png) -28px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.deviantart {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -55px -1px no-repeat;
+	background: url(images/social-icons.png) -55px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.digg {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -82px -1px no-repeat;
+	background: url(images/social-icons.png) -82px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.dribbble {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -109px -1px no-repeat;
+	background: url(images/social-icons.png) -109px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.ember {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -136px -1px no-repeat;
+	background: url(images/social-icons.png) -136px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.facebook {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -163px -1px no-repeat;
+	background: url(images/social-icons.png) -163px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.ffffound {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -190px -1px no-repeat;
+	background: url(images/social-icons.png) -190px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.pinterest {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -379px -28px no-repeat;
+	background: url(images/social-icons.png) -379px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.flickr {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -217px -1px no-repeat;
+	background: url(images/social-icons.png) -217px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.foursquare {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -244px -1px no-repeat;
+	background: url(images/social-icons.png) -244px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.gowalla {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -271px -1px no-repeat;
+	background: url(images/social-icons.png) -271px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.grooveshark {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -298px -1px no-repeat;
+	background: url(images/social-icons.png) -298px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.lastfm {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -1px -28px no-repeat;
+	background: url(images/social-icons.png) -1px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.soundcloud {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -379px -1px no-repeat;
+	background: url(images/social-icons.png) -379px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.linkedin {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -28px -28px no-repeat;
+	background: url(images/social-icons.png) -28px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.picasa {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -55px -28px no-repeat;
+	background: url(images/social-icons.png) -55px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.rss {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -325px -28px no-repeat;
+	background: url(images/social-icons.png) -325px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.rsscomments {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -352px -1px no-repeat;
+	background: url(images/social-icons.png) -352px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.slideshare {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -82px -28px no-repeat;
+	background: url(images/social-icons.png) -82px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.squidoo {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -109px -28px no-repeat;
+	background: url(images/social-icons.png) -109px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.tumblr {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -136px -28px no-repeat;
+	background: url(images/social-icons.png) -136px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.twitter {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -163px -28px no-repeat;
+	background: url(images/social-icons.png) -163px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.vimeo {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -190px -28px no-repeat;
+	background: url(images/social-icons.png) -190px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.wordpress {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -217px -28px no-repeat;
+	background: url(images/social-icons.png) -217px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.xing {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -244px -28px no-repeat;
+	background: url(images/social-icons.png) -244px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.youtube {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -271px -28px no-repeat;
+	background: url(images/social-icons.png) -271px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.zootool {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -298px -28px no-repeat;
+	background: url(images/social-icons.png) -298px -28px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.googleplus {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -325px -1px no-repeat;
+	background: url(images/social-icons.png) -325px -1px no-repeat;
 }
 .widget_bugis_sociallinks ul.social-links li a.fivehundredpx {
-	background: url(http://musicforgood.tv/wp-content/themes/bugis/images/social-icons.png) -352px -28px no-repeat;
+	background: url(images/social-icons.png) -352px -28px no-repeat;
 }
 /* FOOTER
 --------------------------------------------- */
@@ -1594,7 +1594,7 @@ a.grey-button:hover, .grey-btncolor:hover {
 	position:absolute;
 	top:10px;
 	right:0;
-	background:url(http://musicforgood.tv/wp-content/themes/bugis/images/top-btn.png) top right no-repeat;
+	background:url(images/top-btn.png) top right no-repeat;
 	color:#72726E;
 	opacity:0.6;
 	-moz-opacity: 0.6;
