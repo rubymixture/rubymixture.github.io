@@ -2,13 +2,13 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>https://wordpress.org/</engineLink>
-    <homePageLink>http://musicforgood.tv</homePageLink>
+    <homePageLink>http://www.rubymix.ml</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://musicforgood.tv/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://musicforgood.tv/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://musicforgood.tv/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://musicforgood.tv/xmlrpc.php" />
-      	<api name="WP-API" blogID="1" preferred="false" apiLink="http://musicforgood.tv/wp-json/" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="http://www.rubymix.ml/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://www.rubymix.ml/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.rubymix.ml/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.rubymix.ml/xmlrpc.php" />
+      	<api name="WP-API" blogID="1" preferred="false" apiLink="http://www.rubymix.ml/wp-json/" />
 	    </apis>
   </service>
 </rsd>
